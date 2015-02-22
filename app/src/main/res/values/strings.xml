@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskTicker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hey">Hey</string>
+    <string name="category">Category</string>
+    <string name="type">Type</string>
+</resources>
